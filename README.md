@@ -10,5 +10,5 @@
 
 - Axes in React Native:
 
-1. Main axis--> run from #Top to #bottom
+1. Main axis--> run from `Top' to #bottom
 2. Cross axis--> runs from #Left to #Right``
