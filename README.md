@@ -32,3 +32,17 @@
 ## justifyContent
 
 - defines the aligiment along the `main axis`
+- setted on container to align items
+
+### possible values
+
+- `flex-start` ---> the default Value.
+- `flex-end` ---> causes flex items to be placed at the `End` of main axis
+- `center` --> places flex items at the center of main axis
+- `space-between`---> distributes `spaces` between items
+- `space-arround` --> In this case, space at the beggining/end is `half(1/2) ` of space between flex items
+- `space-evenly` ---> equal space distribution on all flex items
+
+`Note`: justifyContent(jC) is dependant on `main axis`
+
+- if flexDirection value is `row` it also changes the main axis LTR

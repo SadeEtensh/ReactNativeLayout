@@ -18,6 +18,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    justifyContent: "space-around",
     // flexDirection: "column", // default Value
     // flexDirection: "column-reverse", // Changes the main axis direction from Bottom to Top
     // flexDirection: "row", // The Main axis- Left-to Right
