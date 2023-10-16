@@ -1,4 +1,3 @@
-import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
 import Box from "./components/Box";
 
@@ -22,7 +21,7 @@ const styles = StyleSheet.create({
     // flexDirection: "column", // default Value
     // flexDirection: "column-reverse", // Changes the main axis direction from Bottom to Top
     // flexDirection: "row", // The Main axis- Left-to Right
-    flexDirection: "row-reverse",
+    // flexDirection: "row-reverse",
     marginTop: 64,
     borderWidth: 6,
     borderColor: "red",

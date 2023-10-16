@@ -25,6 +25,10 @@
 
 ## flexDirection
 
-- The flexDirection property establishes the main axis, which in turn determins how the flex items are placed within container.
+- The flexDirection property establishes the `main axis`, which in turn determins how the flex items are placed within container.
 - By default, the main axis flows from Top to bottom, causing the items to be displayed from top to bottom in the UI.
 - However, by chaning the value of `flexDirection` property, we can alter how the items are positioned. it has 4 diffrent values
+
+## justifyContent
+
+- defines the aligiment along the `main axis`
