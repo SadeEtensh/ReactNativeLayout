@@ -18,3 +18,5 @@
 
 - The flex property plays a crucial role in defining how much of view will fill the screen along main axis.
 - It accepts an Integer value greater than or equals to 0, indicating the fraction of the available space that the component should occupy.
+- The View container in React Native has already display: flex set by defualt-the property that changes div to flex container.
+- The flex property is NOT limited to container but its also applicable to flex items (takes fraction of available space).
