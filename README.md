@@ -1,6 +1,6 @@
 # ReactNativeLayout
 
-##`For AnyOne Aspiring to be React Native Developer`
+## `For AnyOne Aspiring to be React Native Developer`
 
 ## Important Points
 
