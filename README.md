@@ -1,4 +1,4 @@
-# ReactNativeLayout
+# React Native Layout
 
 ## `For AnyOne Aspiring to be React Native Developer`
 
