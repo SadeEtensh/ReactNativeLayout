@@ -34,7 +34,7 @@
 - defines the aligiment along the `main axis`
 - setted on container to align items
 
-### possible values
+  ### possible values
 
 - `flex-start` ---> the default Value.
 - `flex-end` ---> causes flex items to be placed at the `End` of main axis
