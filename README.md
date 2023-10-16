@@ -46,3 +46,8 @@
 `Note`: justifyContent(jC) is dependant on `main axis`
 
 - if flexDirection value is `row` it also changes the main axis LTR
+
+## AlignItems
+
+- defines the default behavior for laying out flex itemsa along the container's `Cross axis`.
+- Works similar with justifyContent but in the perpendicular direction
