@@ -67,3 +67,12 @@
 - Note: the default value of `alignSelf` not stretch but it is `auto` meanining it inherits its value from the `alignitems` property of its parent flex container. In this case the `alignItems` property is setted to `flex-end`
 
 ![Alt text](<Screenshot 2023-10-16 at 4.27.10 in the afternoon.png>)
+
+## flexWrap
+
+- allows us to control how flex items behave when there is limeted space within the container.
+- eg. comment flex: 1 and add heigh: 300 on contaiener
+- when there is no enoght space the items overflow the container.
+- to prevent overflow we user `flexWrap`
+- 3 possible values 1. noWrap-the default value 2. wrap- 3. wrap-reverse-> items are placed at the end of cross axis -> wrap to the right column.
+- consider `Horizontal wrapping` usinf flexDirection.
