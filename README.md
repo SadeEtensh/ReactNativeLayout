@@ -51,3 +51,9 @@
 
 - defines the default behavior for laying out flex itemsa along the container's `Cross axis`.
 - Works similar with justifyContent but in the perpendicular direction
+  ### Posible values
+- `stretch` --> is default Value, meaning the flex items stretch the entire length of cross axis in LTR.
+- `flex-start`--> pushes the flex items to the `start` of cross axis
+- `flex-end`--> pushes the flex items to the `end` of the cross axis
+- `center` --> centers the content on cross axis.
+- `baseline` --> align elements based on their contents baseline
