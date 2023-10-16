@@ -70,7 +70,7 @@
 
 ## flexWrap
 
-- allows us to control how flex items behave when there is limeted space within the container.
+- allows us to control how flex items behave when there is limited space within the container.
 - eg. comment flex: 1 and add heigh: 300 on contaiener
 - when there is no enoght space the items overflow the container.
 - To prevent overflow we user `flexWrap`
