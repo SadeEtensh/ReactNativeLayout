@@ -1,6 +1,6 @@
 # React Native Layout
 
-## `For AnyOne Aspiring to be React Native Developer`
+## `For anyOne Aspiring to be React Native Developer`
 
 ## Important Points
 
@@ -56,4 +56,14 @@
 - `flex-start`--> pushes the flex items to the `start` of cross axis
 - `flex-end`--> pushes the flex items to the `end` of the cross axis
 - `center` --> centers the content on cross axis.
-- `baseline` --> align elements based on their contents baseline
+- `baseline` --> align elements based on their contents baseline.
+
+## alignSelf
+
+- Unlike `alignItems` which is applied to the container and controls the alignment of all items within it.
+- `alignSelf` is applied to individual items, allowing us to control the alignment of each items independantly.
+- The values available for alignSelf is similar to those used in `alignItems`
+
+- Note: the default value of `alignSelf` not stretch but it is `auto` meanining it inherits its value from the `alignitems` property of its parent flex container.
+
+![Alt text](<Screenshot 2023-10-16 at 4.27.10 in the afternoon.png>)
