@@ -82,3 +82,9 @@
 - aligns line of the content along the cross axis.
 - similar to how the `alignItems` property aligns individual items along cross axis.
 - a very important condtion is that multiple column or row must exist with the container
+- `flex-start` is the default value.
+
+## Gap
+
+- Gap related properties allow us to manage spacing between rows and column.
+- rowGap(--Gap between rows), columnGap(--Gap between column) and gap(gap for both rows and gap)
