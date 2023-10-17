@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
     // flex: 1,
     height: 300,
     flexWrap: "wrap",
+    alignContent: "flex-end",
     // justifyContent: "space-around",
     // flexDirection: "column", // default Value
     // flexDirection: "column-reverse", // Changes the main axis direction from Bottom to Top
