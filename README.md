@@ -76,3 +76,9 @@
 - To prevent overflow we user `flexWrap`
 - 3 possible values 1. noWrap-the default value 2. wrap- 3. wrap-reverse-> items are placed at the end of cross axis -> wrap to the right column.
 - Consider `Horizontal wrapping` using flexDirection.
+
+## alignContent
+
+- aligns line of the content along the cross axis.
+- similar to how the `alignItems` property aligns individual items along cross axis.
+- a very important condtion is that multiple column or row must exist with the container
